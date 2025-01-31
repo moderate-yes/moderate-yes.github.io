@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: no anomalies
-description: Extraordinary for being ordinary.
+title: 라이프스타일, 소프트웨어, 데이터
+description: -
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://moderate-yes.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 repository: moderate-yes/moderate-yes # for github-metadata
@@ -114,7 +114,7 @@ heading_anchors: true
 #     - "https://github.com/moderate-yes/moderate-yes.github.io"
 
 # Makes Aux links open in a new tab. Default is false
-aux_links_new_tab: True
+# aux_links_new_tab: True
 
 # Enable or disable the side/mobile menu globally
 # Nav menu can also be selectively enabled or disabled using page variables or the minimal layout
