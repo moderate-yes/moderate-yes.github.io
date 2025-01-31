@@ -1,25 +1,10 @@
 ---
-title: Home
+title: 라이프 스타일, 소프트웨어, 데이터
 layout: home
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
 permalink: /
 ---
 
-# On construction...
-
-{: .warning }
-> warning test
-
-
-font size test fs-9 under
-
-{: .fs-9 }
-
-
-{: .fs-9 }
-
-font size test fs-9 under
-
-
-font size test
+![main](/images/main.jpg)
+양은 중요하지 않습니다. 이 블로그는 매주 머릿속 구름을 조금이라도 걷어내기 위해 만들었습니다.
+{: .text-center }
