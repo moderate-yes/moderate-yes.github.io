@@ -7,3 +7,14 @@ permalink: /
 ---
 
 # On construction...
+
+{: .warning }
+> warning test
+
+
+font size test fs-9 under
+{: .fs-9 }
+
+
+{: .fs-9 }
+font size test fs-9 under
