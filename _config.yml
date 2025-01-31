@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: style software data
-description: write wharever i want
+title: 스소데
+description: style software data
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://moderate-yes.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 repository: moderate-yes/moderate-yes # for github-metadata
